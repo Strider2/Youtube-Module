@@ -1,0 +1,12 @@
+`phpvms_youtube`*sql
+../admin/modules/Youtube_admin/Youtube_admin.php
+../admin/templates/youtube/youtube_edit_form.php
+../admin/templates/youtube/youtube_header.php
+../admin/templates/youtube/youtube_index.php
+../admin/templates/youtube/youtube_new_form.php
+../admin/templates/youtube/sidebar_youtube.php
+../admin/templates/youtube/youtube_video.php
+../core/common/YoutubeData.class.php
+../core/modules/Youtube/Youtube.php
+../core/templates/youtube/Youtube.php
+
