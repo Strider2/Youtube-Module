@@ -6,7 +6,7 @@ $this->show('youtube/youtube_header.php');
 
 echo '<h4>Youtube Video name: '.$youtube->name.'</h4><hr />';
 
-echo 'Youtube video ID: <b>'.$youtubue->vid.'</b><br />';
+echo 'Youtube video ID: <b>'.$youtube->vid.'</b><br />';
 
 echo '</b><hr />';
 echo '<a href="'.SITE_URL.'/admin/index.php/Youtube_admin/edit_video?id='.$youtube->id.'"><b>Edit video</b></a><br /><hr />';
