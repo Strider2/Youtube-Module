@@ -4,7 +4,7 @@ class YoutubeData extends CodonData
 {
     public static function get_video()
     {
-		return DB::get_results("SELECT * FROM ".TABLE_PREFIX."youtube WHERE id = 1");
+		return DB::get_results("SELECT * FROM ".TABLE_PREFIX."youtube");
 
     }
  	public static function get_upcoming_video()
